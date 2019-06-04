@@ -1,2 +1,8 @@
 # World_Happiness_Simulation
-Simulation of World Happiness based on user input
+
+A small class project simulating World Happiness based on user input
+
+Work done by:
+* Nina Lee
+* Bryce Remick  
+
